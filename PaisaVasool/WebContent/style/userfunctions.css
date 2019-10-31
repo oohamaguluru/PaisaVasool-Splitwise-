@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+/* 
+@author dashok
+this file styles the user functions */
+
+#userfns {
+
+    /* fixed within viewport */
+    position: fixed;
+    top: 200px;
+    right: 100px;
+   
+
+
+    /* must have dimension */
+    width: 400px;
+    height: 204px;
+    background-color: #2C3E50;
+    border: 2px solid black;
+}
